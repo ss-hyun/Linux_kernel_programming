@@ -3,3 +3,6 @@ report/
 *.hwp
 *.pdf
 *.jpg
+.vscode/
+a.out
+mem.c
